@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚧 Ev Kurma Oyunu
+# 🏠 Ev Kurma Oyunu
 
 **Yapım Aşamasında · Co-op PC Oyunu**
 
